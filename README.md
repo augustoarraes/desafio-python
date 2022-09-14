@@ -7,7 +7,7 @@ O objetivo desse desafio é avaliar o conhecimento dos candidatos.  Não existe 
 ## Developer challenge
 
 
-Sua tarefa é fazer um aplicativo que carregue a saida da URL https://jsonplaceholder.typicode.com/users , que retorna uma lista de usuário em JSON.
+Sua tarefa é fazer uma aplicação que carregue a saida da URL https://jsonplaceholder.typicode.com/users , que retorna uma lista de usuário em JSON.
 
 Faça um programa que carregue a saída dessa URL e mostre os seguintes dados:
     
