@@ -1,5 +1,5 @@
 
-# Desafio Python #Sangue-Laranja 
+# Desafio Python #Sangue-Laranja 🍊
 
 O objetivo desse desafio é avaliar o conhecimento dos candidatos.  Não existe resolução certa ou errada, avaliaremos com o nível de experiência que for exigido pelas vagas disponíveis no momento. Envie o seu desafio mesmo que você não conclua todas as questões, avaliaremos tudo o que for enviado.
 
