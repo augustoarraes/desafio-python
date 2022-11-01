@@ -1,0 +1,6 @@
+flask
+Flask-RESTful
+Flask-SQLAlchemy
+flask-cors
+
+psycopg2-binary
