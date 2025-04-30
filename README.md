@@ -130,3 +130,7 @@ docker run --add-host=host.docker.internal:172.17.0.1 --name lab.postgres -e PGD
 docker build -t fcamara.nilohealth:0.1 .
 docker run --name fcamara.nilohealth --add-host=host.docker.internal:172.17.0.1 -p 5050:5050 -d fcamara.nilohealth:0.1
 ```
+
+## Contato
+
+[Augusto Arraes](http://linktr.ee/a.arraes)
